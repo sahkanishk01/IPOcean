@@ -15,7 +15,7 @@ Optimized Performance – Indexed database queries for faster response times.
 ## 🛠 Tech Stack
 Backend: Django 5.0.6, Django REST Framework 3.15.1
 Database: PostgreSQL
-Frontend: HTML, CSS, JavaScript
+Frontend: React
 Version Control: Git, GitHub
 Deployment: Vercel / Localhost
 
