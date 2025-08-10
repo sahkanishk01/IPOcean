@@ -1,4 +1,4 @@
-## IPOcean – IPO Data & Analytics Platform
+# IPOcean – IPO Data & Analytics Platform
 IPOcean is a web application designed to provide users with real-time IPO listings, analytics, and insights. Built with Django REST Framework for the backend and PostgreSQL for data management, it offers a seamless experience for tracking IPO timelines, company profiles, subscription data, and market statistics.
 
 ## 🚀Features
