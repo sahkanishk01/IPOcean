@@ -32,8 +32,6 @@ IPOcean/
 Clone the repository
 
 ```bash
-Copy
-Edit
 git clone https://github.com/yourusername/IPOcean.git
 cd IPOcean
 ```
@@ -41,8 +39,6 @@ cd IPOcean
 ## Create a virtual environment & activate it
 
 ```bash
-Copy
-Edit
 python -m venv venv  
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
@@ -50,8 +46,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ## Install dependencies
 
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 ## Configure database settings in settings.py.
@@ -59,15 +53,11 @@ pip install -r requirements.txt
 ## Run migrations
 
 ```bash
-Copy
-Edit
 python manage.py migrate
 ```
 ## Start the server
 
 ```bash
-Copy
-Edit
 python manage.py runserver
 ```
 ## 📊 Usage
