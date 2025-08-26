@@ -23,7 +23,7 @@ Deployment: Vercel / Localhost
 ```bash
 IPOcean/
 │── backend/         # Django backend files & API logic
-│── frontend/        # Static HTML, CSS, JS files
+│── frontend/        # Node JS Files / React
 │── requirements.txt # Python dependencies
 │── README.md        # Project documentation
 ```
